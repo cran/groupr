@@ -1,6 +1,6 @@
 Package: groupr
 Title: Groups with Inapplicable Values
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: 
     person(given = "Nicholas",
            family = "Griffiths",
@@ -15,14 +15,13 @@ License: MIT + file LICENSE
 URL: https://github.com/ngriffiths21/groupr
 BugReports: https://github.com/ngriffiths21/groupr/issues
 Encoding: UTF-8
-LazyData: true
 Suggests: testthat, knitr, rmarkdown, covr
-RoxygenNote: 7.1.1
-Imports: dplyr, rlang, vctrs, purrr, tidyr, tibble
+RoxygenNote: 7.2.3
+Imports: dplyr, rlang, vctrs, pillar, purrr, tidyr, tibble
 VignetteBuilder: knitr
 NeedsCompilation: no
-Packaged: 2020-10-07 13:56:10 UTC; nick
+Packaged: 2023-02-09 20:40:26 UTC; NGGriffiths
 Author: Nicholas Griffiths [aut, cre] (<https://orcid.org/0000-0001-8166-9045>)
 Maintainer: Nicholas Griffiths <ngriffiths21@gmail.com>
 Repository: CRAN
-Date/Publication: 2020-10-14 12:30:06 UTC
+Date/Publication: 2023-02-09 21:00:02 UTC
