@@ -1,10 +1,10 @@
-dca8bf4a82b1c56b5408514ea1919c8f *DESCRIPTION
+08a88f653b33c52a31859ada7e3a5a37 *DESCRIPTION
 36d186548ce4f8cc54cdec71b180a2da *LICENSE
 89e87baaeb18dec6d25eafd711b019cb *NAMESPACE
-df9f83b33e323bd054039c57875a01c6 *NEWS.md
+35f387af9bde11aec4db49d252091668 *NEWS.md
 f07e97beaa9679b64a088a3a80a58c0d *R/columns.R
 5d9b9718d14f69a3a7cb118d878f4ebc *R/groupr.R
-a4e16e0ea82a22a5c068b1700b6dafbf *R/igroup.R
+1aca3f693cd28022196d909ae9ba86fc *R/igroup.R
 0eb17adafbe0dbba88241a8c0903ea26 *R/inapplicable.R
 95a2fbc0f3b2334bfedfb1b0c186ade1 *R/pivot.R
 0016d89d718d85bcbe3ad50fc5850803 *README.md
@@ -17,7 +17,7 @@ a32f1fc7a2f376361452acdff1c007a1 *inst/doc/introduction.R
 791c1dfbc8a7bea28f2d7415c5536d03 *man/infer_colgrps.Rd
 229df19c3b219d8cf29b6cf97218e4d6 *man/pivot_grps.Rd
 84996e868b92ccbb2bb76d4afb598fcb *man/sep_colgrp.Rd
-914c22ea1b12f5f108aabab6ac0b80d9 *man/ungroup.igrouped_df.Rd
+c5efbfd3d7ef4eb834fce53f0807c8d9 *man/ungroup.igrouped_df.Rd
 5879c187a36789164456e037b8833f1c *tests/testthat.R
 c5edb6a2a3b70753b0b6053705630dd1 *tests/testthat/test_cols.R
 696f29341b42a71f5e048f55357f45dd *tests/testthat/test_igroup.R

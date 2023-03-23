@@ -1,6 +1,6 @@
 Package: groupr
 Title: Groups with Inapplicable Values
-Version: 0.1.1
+Version: 0.1.2
 Authors@R: 
     person(given = "Nicholas",
            family = "Griffiths",
@@ -20,8 +20,8 @@ RoxygenNote: 7.2.3
 Imports: dplyr, rlang, vctrs, pillar, purrr, tidyr, tibble
 VignetteBuilder: knitr
 NeedsCompilation: no
-Packaged: 2023-02-09 20:40:26 UTC; NGGriffiths
+Packaged: 2023-03-23 02:34:12 UTC; NGGriffiths
 Author: Nicholas Griffiths [aut, cre] (<https://orcid.org/0000-0001-8166-9045>)
 Maintainer: Nicholas Griffiths <ngriffiths21@gmail.com>
 Repository: CRAN
-Date/Publication: 2023-02-09 21:00:02 UTC
+Date/Publication: 2023-03-23 03:50:02 UTC
